@@ -1,0 +1,17 @@
+const CONFIG = {
+    introTitle: 'Bạn à!',
+    introDesc: `:)))`,
+    btnIntro: 'AI HẾT DIU SÂU MẮT',
+    title: 'Hiểu chưa?',
+    btnYes: ' hiểu ròi',
+    btnNo: 'chưa:)',
+    title: 'Biết sao không?',
+    btnYes: 'Có',
+    btnNo: 'Không',
+    question: ' TẠI SAO?????',
+    btnReply: 'GỬi bạn',
+    reply:
+    mess: 'ĐÁNG GHÉT',
+    messDesc: '🖕',
+    messLink: 'https://www.facebook.com/viet.hoangvan.37017'
+ } 
